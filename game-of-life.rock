@@ -1,0 +1,15 @@
+put "," into Wrecking Ball
+
+neighbours takes an address
+shatter address into rubble with Wrecking Ball
+give back rubble
+
+listen to Everything
+put Everything into Generations
+listen to Everything
+put Everything into Strata
+neighbours taking "1,2"
+while Strata
+listen to Everything
+shout Everything
+knock Strata down
